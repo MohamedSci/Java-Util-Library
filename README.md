@@ -26,3 +26,7 @@ The library is intended to be used as a dependency in other Java projects. You c
 ## Documentation
 
 More detailed documentation for each function, including usage examples and parameter descriptions, will be added soon.
+
+## [Buy me a Coffee☕](<https://ko-fi.com/mohamedsaidibrahim>)
+
+If you enjoy this content and want to support me, feel free to [buy me a coffee](<https://ko-fi.com/mohamedsaidibrahim>)
